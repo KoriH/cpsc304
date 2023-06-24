@@ -1,4 +1,3 @@
-# project_n5f3w_o2j6l_z4h0n
 # COMPUTER PART CONFIGURATOR DATABASE PROJECT (CPSC 304 - 2023S1)
 
 # Computer Configuration Application
